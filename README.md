@@ -87,8 +87,4 @@ Si todo está configurado correctamente, debería aparecer una ventana con el me
 
 ## Créditos
 
-Este proyecto fue creado como parte de una actividad de documentación con Markdown.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
+Este proyecto fue creado como parte de una actividad de documentación con Markdown en clase.
